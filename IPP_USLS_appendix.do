@@ -10,7 +10,7 @@ clear matrix
 set more off,permanently
 
 
-cd "C:\Users\Don Koh\Dropbox\My_Documents\IPP\Data\IPP_USLS_Data_Codes" 	// FOLDER WHERE GRAPHS ARE STORED
+cd "" 	// FOLDER WHERE GRAPHS ARE STORED
 
 
 *-------------------------------------------------------------------------------  
