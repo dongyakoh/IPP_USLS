@@ -1,5 +1,5 @@
-# USLS_IPP
-Data files for the project "Labor Share Decline and Intellectual Property Products Capital" by Dongya Koh, Raul Santaeulalia-Llopis, and Yu Zheng 
+# IPP USLS
+Data files and STATA codes for "Labor Share Decline and Intellectual Property Products Capital" by Dongya Koh, Raul Santaeulalia-Llopis, and Yu Zheng 
 
 This directory contains the following contents:
 
