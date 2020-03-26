@@ -1,7 +1,6 @@
 # IPP USLS
 Data files and STATA codes for "Labor Share Decline and Intellectual Property Products Capital" 
-by Dongya Koh, Raul Santaeulalia-Llopis, and Yu Zheng.
-Created by Dongya Koh on March 26, 2020.
+by Dongya Koh, Raul Santaeulalia-Llopis, and Yu Zheng (created by Dongya Koh on March 26, 2020).
 
 This directory contains the following contents:
 
