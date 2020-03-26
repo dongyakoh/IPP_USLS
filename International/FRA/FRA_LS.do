@@ -10,7 +10,7 @@ set more off,permanently
 
 
 // SET A PATH TO A FOLDER WHERE DATA FILE IS STORED
-cd "C:\Users\Don Koh\Dropbox\My_Documents\IPP\Data\IPP_USLS_Data_Codes\International\FRA"
+cd ""
 
 
 *-------------------------------------------------------------------------------  
