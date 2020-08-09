@@ -88,7 +88,7 @@ gen ln_LS2IPP = ln(LS2IPP)
 reg ln_LS2IPP tt
 
 
-ss
+
 twoway (line LS0 	year, 				lcolor(blue) lwidth(1)) || ///
 	   (line XBLS0 	year, 				lcolor(blue) lpattern(dash) lwidth(1)) || ///
 	   (line LS0IPP 	year, 				lcolor(orange) lwidth(1)) || ///

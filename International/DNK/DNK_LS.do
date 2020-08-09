@@ -138,7 +138,7 @@ twoway  (line ratio_CE_GDP  	year, lwidth(vthick)) || ///
 graph export "NIcomp_GDP_DNK.png", width(1400) height(1000) replace
 
 
-ss
+
 *------------------------------------------------------------------------------- 
 * AGGREGATE LABOR SHARE AND IPP EFFECTS
 *------------------------------------------------------------------------------- 

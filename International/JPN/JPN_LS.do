@@ -260,7 +260,7 @@ reg ln_LS2IPP tt
 reg LS2 year if year>1975
 reg LS2IPP year if year>1975
 
-ss
+
 twoway (line LS0 		year, 				lcolor(blue) lwidth(1.0)) || ///
 	   (line XBLS0 		year, 				lcolor(blue) lpattern(dash) lwidth(1.0)) || ///
 	   (line LS0IPP 	year, 				lcolor(orange) lwidth(1.0)) || ///

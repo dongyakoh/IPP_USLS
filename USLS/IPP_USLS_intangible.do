@@ -91,7 +91,7 @@ twoway (line ratio_IP_NA_IP_NONNA		year if year>1976 & year<2015, 	lcolor(ltblue
 graph export "Ratio_to_Private_Corrado.png", width(1400) height(1000) replace
 
 
-ss
+
 // IMPUTE THE BEA-CORRADO RATIO BACK IN 1929
 regress ratio_I_NA_IP_NONNA year
 predict xb_ratio_I_NA_IP_NONNA
